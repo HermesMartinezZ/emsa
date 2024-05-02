@@ -95,28 +95,29 @@ Una vez dentro del programa, siga estos pasos:
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/123e27d8-3b25-49b6-847a-f298e4e0b092)
 
+    - Finalizando el proceso. Si se desea seuir se debe empezar de nuevo desde el paso 1
      
-3. **Recibir Respuesta del Cliente:**
+4. **Recibir Respuesta del Cliente:**
    - Repita el proceso del paso anterior 2.2 para la tarea "Recibir Respuesta del Cliente".
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/588144d4-91bf-453a-ab04-4a34a2aaa6a1)
 
-4. **Mostrar Términos y Condiciones:**
+5. **Mostrar Términos y Condiciones:**
    - Repita el proceso para la tarea "Mostrar Términos y Condiciones".
 
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/d335c2e0-885e-4551-a64e-6955a10d8611)
 
-5. **Firmar el Contrato:**
+6. **Firmar el Contrato:**
    - Repita el proceso para la tarea "Firmar el Contrato".
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/e35bccb8-2f3b-46fd-ab6f-e2900426d9d3)
 
-6. **Asignar Fecha Tentativa:**
+7. **Asignar Fecha Tentativa:**
    - Ingrese una fecha y hora tentativa y complete la tarea.
 
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/340e29b0-7744-448a-bb8c-a9fa561a0c45)
 
-7. **Verificar Disponibilidad del Técnico:**
+8. **Verificar Disponibilidad del Técnico:**
    - Repita el proceso para las tareas "Verificar Disponibilidad del Técnico" y "Verificar si el Cliente Acepta la Fecha", si alguno de los dos no esta de acuerdo se deborvera al punto 6.
   
    - 7.1 Verificar Disponibilidad del Técnico:
@@ -127,12 +128,12 @@ Una vez dentro del programa, siga estos pasos:
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/397f1a15-d2c5-4262-88b3-9b0db709def3)
 
-8. **Verificar Materiales:**
+9. **Verificar Materiales:**
    - Repita el proceso para la tarea "Verificar Materiales".
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/185e8dd2-cfc9-43d0-bf0f-2ef83e2dcbc3)
 
-9. **Asignar Técnico Eléctrico:**
+10. **Asignar Técnico Eléctrico:**
    - Ingrese el nombre del técnico asignado y complete la tarea.
   
      ![image](https://github.com/HermesMartinezZ/emsa/assets/98378769/28985b91-23e6-424d-b55f-c849a69d66b8)
